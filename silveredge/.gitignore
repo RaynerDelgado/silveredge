@@ -2,8 +2,7 @@
 .pylintrc
 __pycache__/
 
-.vscode/
-.idea
+.vscode
 
 .env
 
